@@ -1,1 +1,2 @@
-# Road_Crash_Sites_In_Melbourne
+Road_Crash_Sites_In_Melbourne:
+The map displays the locations of fatal road accidents in Melbourne, highlighting areas where these tragic incidents have occurred. Each marker represents a site where a fatal crash has taken place, offering a visual overview of the distribution and frequency of such accidents across the city. This map aims to raise awareness and contribute to efforts in improving road safety and preventing future fatalities.
