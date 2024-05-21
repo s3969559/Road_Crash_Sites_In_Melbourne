@@ -10,3 +10,4 @@ To develop a cloud-based open-source web GIS application that utilize open data,
 4.	To develop an interactive front-end web GIS application utilizing cloud-based open-source technologies like HTML and Mapbox GL JS.
 5.	To publish my project to more users including the back-end database and front-end application. 
 
+![alt text](three-tier-architecture.png)
